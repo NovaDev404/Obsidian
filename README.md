@@ -1,3 +1,5 @@
+> ## ⚠️ Obsidian is not currently being worked on, but I will get to it soon
+
 # Obsidian Launcher iOS
 [![Development build](https://github.com/NovaDev404/Obsidian/actions/workflows/development.yml/badge.svg?branch=main)](https://github.com/NovaDev404/Obsidian/actions/workflows/development.yml)
 
